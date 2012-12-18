@@ -3,7 +3,7 @@
     <groupId>org.jboss</groupId>
     <artifactId>jboss-idm-servlet</artifactId>
     <packaging>war</packaging>
-    <version>1.4.1.CR02-SNAPSHOT</version>
+    <version>1.4.1.Final</version>
     <name>JBoss Picketlink IDM servlet</name>
     <url>http://maven.apache.org</url>
 

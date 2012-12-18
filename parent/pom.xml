@@ -8,7 +8,7 @@
   <groupId>org.picketlink.idm</groupId>
   <artifactId>picketlink-idm-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.4.1.CR02-SNAPSHOT</version>
+  <version>1.4.1.Final</version>
   <name>PicketLink IDM- Parent</name>
   <description>PicketLink is a cross-cutting project that handles identity  needs for the JEMS projects</description>
   <licenses>
